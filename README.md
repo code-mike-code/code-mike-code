@@ -13,6 +13,6 @@
 - 💞️ I’m looking to collaborate on Open Source projects to bring my skills to the next level,
 
 <!---
-code-mike-code/code-mike-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+code-mike-code/main is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=code-mike-code.visitor-badge&left_color=silver&right_color=gold&left_text=visitors" />
+
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=code-mike-code.visitor-badge&left_color=silver&right_color=gold&left_text=visitors)
 

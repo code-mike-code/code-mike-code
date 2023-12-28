@@ -2,17 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=40&pause=1000&color=939597&background=F5DF4D&center=true&vCenter=true&random=false&width=1100&height=120&lines=Hello%2C+im+Mike+;Junior+Frontend+Developer+)](https://git.io/typing-svg)
 
-<a style="border-radius:25px" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=30&pause=1000&color=939597&background=F5DF4D&center=true&vCenter=true&random=false&width=1000&height=60&lines=Hello%2C+im+Mike+;Junior+Frontend+Developer+" alt="Typing SVG" /></a>
 
-Hi, I’m Michał, you can call me Mike @code-mike-code
+<h3 align="center">I am a self-taught beginner frontend developer from Poland</h3>
 
-I am a self-taught frontend developer at beginner / junior level. 
-Looking for my first job / internship, as I want to continue develop my skills in this direction. 
-Full-time, part-time, task- based. Experienced in teamwork, organized, quickly adapting to new environment. 
-Love solving problems and creating cool stuff in the process. Strong soft and social skills, open-minded. 
-Kitesurfing instruktor Lv. 2, AIDA Freediver Lv. 2, home cook :)
+<br/>
 
-- interested in new technologies, kitesurfing, self-development, freediving, home-cook,
-- looking to collaborate on Open Source projects to bring my skills to the next level,
+<div align="center">
+ 
+ 🔭 I’m currently working on **a landing page**
+ 
+ 🌱 I’m currently learning **Java Script, SCSS, Python**
+
+ </div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=500&pause=500&color=000000&background=0000000F&multiline=true&repeat=false&random=false&width=1100&height=200&lines=Hi%2C+I%E2%80%99m+Micha%C5%82%2C+you+can+call+me+Mike;+I+am+a+self-taught+frontend+developer+at+beginner+%2F+junior+level.;+Looking+for+my+first+job+%2F+internship%2C+as+I+want+to+continue+develop+my+skills+in+this+direction.;Full-time%2C+part-time%2C+task-+based.+Experienced+in+teamwork%2C+organized%2C+quickly+adapting+to+new+environment.;Love+solving+problems+and+creating+cool+stuff+in+the+process.;Strong+soft+and+social+skills%2C+open-minded.;-+interested+in+new+technologies%2C+kitesurfing%2C+self-development%2C+freediving%2C+home-cook%2C;+-+looking+to+collaborate+on+Open+Source+projects+to+bring+my+skills+to+the+next+level%2C)](https://git.io/typing-svg)
 
 

@@ -50,7 +50,7 @@
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=code-mike-code&theme=yellowdark&hide_border=true&border_radius=8&date_format=j%2Fn%5B%2FY%5D&mode=weekly&ring=F5DF4D&stroke=F5DF4D&background=000000&border=F5DF4D&fire=F54100&currStreakNum=F5DF4D&sideNums=F5DF4D&currStreakLabel=F5DF4D&sideLabels=F5DF4D&dates=F5DF4D&excludeDaysLabel=F5DF4D" alt="GitHub Streak" /></a>
  
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-mike-code)](https://github.com/anuraghazra/github-readme-stats)
  
  
  <img width=390 src="https://github-readme-stats-code-mike-code.vercel.app/api?username=code-mike-code&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />

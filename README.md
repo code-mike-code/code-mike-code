@@ -5,7 +5,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+im+Mike+😀;Junior+Frontend+Developer+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=30&pause=1000&color=939597&background=F5DF4D&center=true&vCenter=true&random=false&width=460&height=60&lines=Hello%2C+im+Mike+;Junior+Frontend+Developer+)](https://git.io/typing-svg)
 
 
 

@@ -1,4 +1,4 @@
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcode-mike-code1212%2Fhit-counter" />
+<img align="right" src="[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcode-mike-code&count_bg=%23F5DF4D&title_bg=%23939597&icon=&icon_color=%23939597&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)" />
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=code-mike-code.visitor-badge&left_color=grey&right_color=gold&left_text=visitors" />
 

@@ -1,4 +1,4 @@
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcode-mike-code1212%2Fhit-counter" />
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=code-mike-code.visitor-badge&left_color=grey&right_color=gold&left_text=visitors" />
 

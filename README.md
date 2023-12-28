@@ -1,6 +1,6 @@
 <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcode-mike-code&count_bg=%23F5DF4D&title_bg=%23939597&icon=&icon_color=%23939597&title=visitors&edge_flat=false" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=40&pause=1000&color=939597&background=F5DF4D&center=true&vCenter=true&random=false&width=1100&height=120&lines=Hello%2C+im+Mike+;Junior+Frontend+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=44&pause=1000&color=939597&background=F5DF4D&center=true&vCenter=true&random=false&width=1100&height=120&lines=Hello%2C+im+Mike+;Junior+Frontend+Developer+)](https://git.io/typing-svg)
 
 
 <h3 align="center">I am a self-taught beginner frontend developer from Poland</h3>
@@ -48,7 +48,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img width=390, height=195 src="https://github-readme-streak-stats.herokuapp.com?user=code-mike-code&theme=yellowdark&hide_border=true&border_radius=8&date_format=j%2Fn%5B%2FY%5D&mode=weekly&ring=F5DF4D&stroke=F5DF4D&background=000000&border=F5DF4D&fire=F54100&currStreakNum=F5DF4D&sideNums=F5DF4D&currStreakLabel=F5DF4D&sideLabels=F5DF4D&dates=F5DF4D&excludeDaysLabel=F5DF4D" alt="GitHub Streak" /></a>
+  <img width=390, height=195 src="https://github-readme-streak-stats.herokuapp.com?user=code-mike-code&theme=yellowdark&hide_border=true&border_radius=8&date_format=j%2Fn%5B%2FY%5D&mode=weekly&ring=F5DF4D&stroke=F5DF4D&background=000000&border=F5DF4D&fire=F54100&currStreakNum=F5DF4D&sideNums=F5DF4D&currStreakLabel=F5DF4D&sideLabels=F5DF4D&dates=F5DF4D&excludeDaysLabel=F5DF4D" alt="GitHub Streak" />
  
 
  <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-mike-code&layout=compact&card_width=390&custom_title=My_Languages&theme=react&border_radius=8&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />

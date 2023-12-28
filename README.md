@@ -1,3 +1,15 @@
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=code-mike-code.code-mike-code" />
+
+
+
+
+
+
+
+
+
+
+
 Hi, I’m Michał, you can call me Mike @code-mike-code
 
 I am a self-taught frontend developer at beginner / junior level. 

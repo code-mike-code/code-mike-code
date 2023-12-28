@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=40&pause=1000&color=939597&background=F5DF4D&center=true&vCenter=true&random=false&width=1100&height=120&lines=Hello%2C+im+Mike+;Junior+Frontend+Developer+)](https://git.io/typing-svg)
 
-<a border-radius="25px" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=30&pause=1000&color=939597&background=F5DF4D&center=true&vCenter=true&random=false&width=1000&height=60&lines=Hello%2C+im+Mike+;Junior+Frontend+Developer+" alt="Typing SVG" /></a>
+<a style="border-radius:25px" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=30&pause=1000&color=939597&background=F5DF4D&center=true&vCenter=true&random=false&width=1000&height=60&lines=Hello%2C+im+Mike+;Junior+Frontend+Developer+" alt="Typing SVG" /></a>
 
 Hi, I’m Michał, you can call me Mike @code-mike-code
 

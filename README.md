@@ -48,10 +48,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390, height=195 src="https://github-readme-streak-stats.herokuapp.com?user=code-mike-code&theme=yellowdark&hide_border=true&border_radius=8&date_format=j%2Fn%5B%2FY%5D&mode=weekly&ring=F5DF4D&stroke=F5DF4D&background=000000&border=F5DF4D&fire=F54100&currStreakNum=F5DF4D&sideNums=F5DF4D&currStreakLabel=F5DF4D&sideLabels=F5DF4D&dates=F5DF4D&excludeDaysLabel=F5DF4D" alt="GitHub Streak" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=code-mike-code&theme=yellowdark&hide_border=true&border_radius=8&date_format=j%2Fn%5B%2FY%5D&mode=weekly&ring=F5DF4D&stroke=F5DF4D&background=000000&border=F5DF4D&fire=F54100&currStreakNum=F5DF4D&sideNums=F5DF4D&currStreakLabel=F5DF4D&sideLabels=F5DF4D&dates=F5DF4D&excludeDaysLabel=F5DF4D" alt="GitHub Streak" />
  
 
- <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-mike-code&layout=compact&card_width=390&custom_title=My_Languages&theme=react&border_radius=8&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-mike-code&layout=compact&card_width=390&custom_title=My_Languages&theme=react&border_radius=8&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <br/>
 </div>
 

@@ -3,7 +3,6 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=code-mike-code.visitor-badge)
 
-(https://visitor-badge.laobi.icu/badge?page_id=code-mike-code.visitor-badge&left_text=MyPageVisitors)
 
 
 

@@ -4,7 +4,7 @@
 
 
 <h3 align="center">I am a self-taught beginner frontend developer from Poland</h3>
-
+<hr/>
 <br/>
 
 <div align="center">
@@ -14,6 +14,7 @@
  🌱 I’m currently learning **Java Script, SCSS, Python**
 
  </div>
+<hr/>
 
  <div align="center"> 
   <a href="mailto:m.majewski.dm@gmail.com">
@@ -28,3 +29,42 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=20&duration=500&pause=500&color=ffffff&background=939597&center=true&multiline=true&repeat=false&random=false&width=1100&height=240&lines=Hi%2C+I%E2%80%99m+Micha%C5%82%2C+you+can+call+me+Mike;I+am+a+self-taught+frontend+developer+at+beginner+%2F+junior+level.;+Looking+for+my+first+job+%2F+internship%2C+as+I+want+to+develop+my+skills+in+this+direction.;Full-time%2C+part-time%2C+task-+based.+Experienced+in+teamwork%2C+organized%2C+quickly+adapting+to+new+environment.;Love+solving+problems+and+creating+cool+stuff+in+the+process.;Strong+soft+and+social+skills%2C+open-minded.;-+interested+in+new+technologies%2C+kitesurfing%2C+self-development%2C+freediving%2C+home-cook%2C;+-+looking+to+collaborate+on+Open+Source+projects+to+bring+my+skills+to+the+next+level%2C)](https://git.io/typing-svg)
+
+<br/>
+
+<h2 align="center">⚒️ Languages-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,scss,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,mysql," />
+ <br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/code-mike-code/code-mike-code/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-code-mike-code.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-code-mike-code.vercel.app/api?username=code-mike-code&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-code-mike-code.vercel.app/api/top-langs/?username=code-mike-code&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+

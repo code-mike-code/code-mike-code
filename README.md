@@ -35,21 +35,13 @@
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,scss,vscode,github,figma,tailwind,git" /><br/>
+    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,vscode,github,figma,tailwind,git" /><br/>
     <img src="https://skillicons.dev/icons?i=python,javascript,mysql" />
  <br>
 </div>
 
 <br/>
-<hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/code-mike-code/code-mike-code/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 

@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a landing page**
+ 🔭 I’m currently working on **personal porfolio**
  
- 🌱 I’m currently learning **Java Script, SCSS, Python**
+ 🌱 I’m currently learning **Java Script, SCSS, Python, Design Patterns, GSAP**
 
  </div>
 <hr/>
@@ -27,8 +27,7 @@
   </a>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=20&duration=500&pause=500&color=ffffff&background=939597&center=true&multiline=true&repeat=false&random=false&width=1100&height=240&lines=I+am+a+self-taught+frontend+developer+at+beginner+%2F+junior+level.;+Looking+for+my+first+job+%2F+internship%2C+as+I+want+to+develop+my+skills+in+this+direction.;Full-time%2C+part-time%2C+task-+based.+Experienced+in+teamwork%2C+organized%2C+quickly+adapting+to+new+environment.;Love+solving+problems+and+creating+cool+stuff+in+the+process.;Strong+soft+and+social+skills%2C+open-minded.;-+interested+in+new+technologies%2C+kitesurfing%2C+self-development%2C+freediving%2C+home-cook%2C;+-+looking+to+collaborate+on+Open+Source+projects+to+bring+my+skills+to+the+next+level%2C)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=20&duration=500&pause=500&color=FFFFFF&background=939597&center=true&multiline=true&repeat=false&random=false&width=1100&height=250&lines=I+am+a+self-taught+Junior+Frontend+Developer%2C+eager+to+continue+developing+my+skills;through+job+or+internship%2C+whether+full-time%2C+part-time%2C+or+task-based.;I+recently+transitioned+careers+to+pursue+my+long-held+passion+for+web+development.;My+self-driven+learning+journey+demonstrates+my+resilience+and+fearlessness+in+embracing+change.;I+am+committed+to+leveraging+my+skills+and+enthusiasm+to+contribute;effectively+to+a+dynamic+development+team.;With+experience+in+teamwork%2C+strong+organizational+skills%2C;and+the+ability+to+adapt+quickly+to+new+environments%2C;I+love+solving+problems+and+creating+innovative+solutions.)](https://git.io/typing-svg)
 <br/>
 
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>

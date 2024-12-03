@@ -9,7 +9,7 @@
 <div align="center">
  
  🔭 I’m currently working on **personal porfolio**
- 
+ 💻 I’m currently participating in one-on-one mantoring with **devmentor.pl**
  🌱 I’m currently learning **Java Script, SCSS, Python, Design Patterns, GSAP**
 
  </div>

@@ -12,7 +12,7 @@
  
  💻 I’m currently participating in one-on-one mantoring with **devmentor.pl**
  
- 🌱 I’m currently learning **Java Script, SCSS, Python, Design Patterns, GSAP**
+ 🌱 I’m currently learning **Java Script, React, Redux, REST API, React Testing Library, SCSS, CI/CD, Design Patterns**
 
  </div>
 <hr/>

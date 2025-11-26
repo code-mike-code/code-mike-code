@@ -10,9 +10,9 @@
  
  🔭 I’m currently working on **personal porfolio**
  
- 💻 I’m currently participating in one-on-one mantoring with **devmentor.pl**
+ 💻 Finish one-on-one mantoring with **devmentor.pl**
  
- 🌱 I’m currently learning **Java Script, React, Redux, REST API, React Testing Library, SCSS, CI/CD, Design Patterns**
+ Tech Stack **JavaScript, React, Redux, REST API, React Testing Library, SCSS, CI/CD, Design Patterns**
 
  </div>
 <hr/>

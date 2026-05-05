@@ -12,7 +12,7 @@
  
  💻 Finish one-on-one mantoring with **devmentor.pl**
  
- ##Tech Stack 
+ ## Tech Stack:
  **JavaScript, TypeScript, React, NextJS 
  Redux, Vite, Webpack, REST API 
  RTL, Vitest, Jest

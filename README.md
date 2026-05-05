@@ -35,7 +35,7 @@
   </a>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=19&duration=500&pause=500&color=FFFFFF&background=939597&center=true&multiline=true&repeat=false&random=false&width=1100&height=320&lines=AI-Augmented+Frontend+Developer+%7C+React+%26+TypeScript;A+few+years+ago+I+was+managing+international+teams+%E2%80%94+today+I+write+code.;It+wasn%27t+the+easiest+switch%2C+but+it+was+the+right+one.;I+taught+myself+from+scratch%2C+went+through+a+mentorship+program;and+kept+building+things+even+when+it+was+hard.;The+business+background+stayed+with+me+though+%E2%80%94+I+still+think+in+terms+of;priorities%2C+deadlines+and+actual+user+needs.;Now+I+mix+that+with+React%2C+TypeScript+and+AI+tools+like+Claude+Code;to+build+interfaces+that+actually+make+sense+for+the+people+using+them.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=19&duration=500&pause=500&color=FFFFFF&background=939597&center=true&multiline=true&repeat=false&random=false&width=1100&height=320&lines=AI-Augmented+Frontend+Developer+%7C+React+%26+TypeScript;A+few+years+ago+I+was+managing+international+teams+today+I+write+code.;It+wasn%27t+the+easiest+switch%2C+but+it+was+the+right+one.;I+taught+myself+from+scratch%2C+went+through+a+mentorship+program;and+kept+building+things+even+when+it+was+hard.;The+business+background+stayed+with+me+though+%E2%80%94+I+still+think+in+terms+of;priorities%2C+deadlines+and+actual+user+needs.;Now+I+mix+that+with+React%2C+TypeScript+and+AI+tools+like+Claude+Code;to+build+interfaces+that+actually+make+sense+for+the+people+using+them.)](https://git.io/typing-svg)
 <br/>
 
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>

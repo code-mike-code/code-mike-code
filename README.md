@@ -13,12 +13,12 @@
  💻 Finish one-on-one mantoring with **devmentor.pl**
  
  ##Tech Stack 
- **JavaScript, TypeScript, React, NextJS** 
- **Redux, Vite, Webpack, REST API** 
- **RTL, Vitest, Jest**
- **CSS, SCSS, TailwindCSS, Bootstrap, GSAP, MUI** 
- **MySQL, PostgreSQL**
- **CI/CD, Design Patterns**
+ **JavaScript, TypeScript, React, NextJS 
+ Redux, Vite, Webpack, REST API 
+ RTL, Vitest, Jest
+ CSS, SCSS, TailwindCSS, Bootstrap, GSAP, MUI 
+ MySQL, PostgreSQL
+ CI/CD, Design Patterns**
 
  </div>
 <hr/>

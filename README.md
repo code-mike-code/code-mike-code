@@ -3,16 +3,22 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=44&pause=1000&color=939597&background=F5DF4D&center=true&vCenter=true&random=false&width=1100&height=120&lines=Hello%2C+im+Mike+;Frontend+Developer+)](https://git.io/typing-svg)
 
 
-<h3 align="center">I am a self-taught junior frontend developer!</h3>
+<h3 align="center">I am a self-taught frontend developer!</h3>
 <hr/>
 
 <div align="center">
  
- 🔭 I’m currently working on **personal porfolio**
+ 🔭 I’m currently working as **freelancer**
  
  💻 Finish one-on-one mantoring with **devmentor.pl**
  
- Tech Stack **JavaScript, React, Redux, REST API, React Testing Library, SCSS, CI/CD, Design Patterns**
+ ##Tech Stack 
+ **JavaScript, TypeScript, React, NextJS** 
+ **Redux, Vite, Webpack, REST API** 
+ **RTL, Vitest, Jest**
+ **CSS, SCSS, TailwindCSS, Bootstrap, GSAP, MUI** 
+ **MySQL, PostgreSQL**
+ **CI/CD, Design Patterns**
 
  </div>
 <hr/>

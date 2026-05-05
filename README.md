@@ -41,7 +41,7 @@
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,react,bootstrap,webpack,gulp,vscode,github,git" /><br/>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,html,css,scss,bootstrap,tailwind,gsap,mui,vite,webpack,gulp,vscode,github,git" /><br/>
  <br>
 </div>
 

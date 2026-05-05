@@ -41,8 +41,8 @@
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,html,css,scss,tailwind,mui,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=jest,vitest,babel,gulp,mysql,postgresql,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,html,css,scss,tailwind,mui,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=nodejs,jest,vitest,babel,gulp,mysql,postgresql,github,git,ci/cd" />
  <br/>
  <br>
 </div>

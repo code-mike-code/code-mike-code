@@ -36,6 +36,8 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=20&duration=500&pause=500&color=FFFFFF&background=939597&center=true&multiline=true&repeat=false&random=false&width=1100&height=250&lines=I+am+a+self-taught+Junior+Frontend+Developer%2C+eager+to+continue+developing+my+skills;through+job+or+internship%2C+whether+full-time%2C+part-time%2C+or+task-based.;I+recently+transitioned+careers+to+pursue+my+long-held+passion+for+web+development.;My+self-driven+learning+journey+demonstrates+my+resilience+and+fearlessness+in+embracing+change.;I+am+committed+to+leveraging+my+skills+and+enthusiasm+to+contribute;effectively+to+a+dynamic+development+team.;With+experience+in+teamwork%2C+strong+organizational+skills%2C;and+the+ability+to+adapt+quickly+to+new+environments%2C;I+love+solving+problems+and+creating+innovative+solutions.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=20&duration=500&pause=500&color=FFFFFF&background=939597&center=true&multiline=true&repeat=false&random=false&width=1100&height=280&lines=AI-Augmented+Frontend+Developer+%7C+React+%26+TypeScript;I+deliberately+changed+my+career+path+%E2%80%94+from+Manager+%26+Supervisor+in+international+teams;to+a+self-driven+developer+who+builds+real+products.;Years+of+leadership+gave+me+business+thinking%2C+priority+management;and+the+ability+to+work+under+pressure+%E2%80%94+skills+no+bootcamp+can+teach.;I+combine+frontend+expertise+with+AI+tools+(Claude+Code%2C+AI+Agents);to+deliver+solutions+ready+for+real+business+needs.)](https://git.io/typing-svg)
 <br/>
 
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
